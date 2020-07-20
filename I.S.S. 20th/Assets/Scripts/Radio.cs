@@ -55,4 +55,9 @@ public class Radio : MonoBehaviour
             }
         }
     }
+
+    public bool IsFollowing()
+    {
+        return isFollowing;
+    }
 }

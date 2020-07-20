@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8823EC30-5234-0871-7CCD-193B81F4D77B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RadioChecker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameUI.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/CompleteRadioObjectiveTriggerButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ObjectiveSetActive.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Radio.cs" Line="61" Column="28" />
+      <File FileName="Assets/Scripts/RadioChecker.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="158f602d-b511-40a2-8741-423f66f90fa9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
